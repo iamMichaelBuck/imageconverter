@@ -21,3 +21,6 @@ npm run dev
 ```bash
 npm run build   # static site in dist/ — host anywhere
 ```
+
+## Live
+https://iammichaelbuck.github.io/imageconverter/ — deployed automatically from `main` via GitHub Actions.
